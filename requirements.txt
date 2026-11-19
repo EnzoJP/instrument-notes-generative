@@ -1,0 +1,28 @@
+# Core Deep Learning & Audio
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+torchdiffeq>=0.2.3
+
+# Audio processing & Analysis
+librosa>=0.10.0
+soundfile>=0.12.1
+scipy>=1.10.0
+
+# Transformer models & Hugging Face (para evaluadores de audio como AST)
+transformers>=4.30.0
+datasets>=2.14.0
+
+# Scientific computing, metrics & visualization
+numpy>=1.23.0,<2.0.0
+pandas>=2.0.0
+scikit-learn>=1.2.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+tqdm>=4.65.0
+
+# Kaggle / Colab dataset integration
+kagglehub>=0.2.0
+
+# Jupyter environment
+ipywidgets>=8.0.0
